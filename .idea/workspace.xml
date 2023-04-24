@@ -4,19 +4,12 @@
     <list default="true" id="074f0e5d-abdd-479c-b83c-09a6fcc9602e" name="Changes" comment="kkll">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Semana03.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoesUsuario-1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoesUsuario-2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoesUsuario-3.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoesUsuario-4.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/funcoesUsuario-5.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,10 +62,23 @@
       <workItem from="1682372393948" duration="23000" />
       <workItem from="1682372425056" duration="17000" />
       <workItem from="1682372452506" duration="21000" />
+      <workItem from="1682372483374" duration="53000" />
     </task>
+    <task id="LOCAL-00001" summary="kkll">
+      <created>1682372492450</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1682372492450</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kkll" />
+    <option name="LAST_COMMIT_MESSAGE" value="kkll" />
   </component>
 </project>
